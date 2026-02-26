@@ -1,4 +1,4 @@
-# Technical Assessment: Task Management API
+# Technical Assessment
 
 ## 📌 Gambaran Umum
 

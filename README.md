@@ -78,6 +78,7 @@ Sertakan jawaban dari pertanyaan berikut di dalam README:
 1. Apakah Anda sering menggunakan tools AI dalam melakukan koding? 
 2. Apa ekspektasi Anda terhadap jobdesc dan tanggung jawab di posisi ini?
 3. Bagaimana pendekatan Anda dalam menyelesaikan suatu problem teknis?
+4. Apakah ada ketertarikan pada posisi selain App Developer? (Misal AI engineer etc)
 
 ---
 
